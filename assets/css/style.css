@@ -1,3 +1,5 @@
+/*Importing the Fonts from Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200..700&display=swap');
 /*Asterisk selector to override default styles added by browser */
 * {
     padding: 0;
@@ -11,6 +13,8 @@ body {
     display: flex;
     flex-direction: column;
     /*Generic project styles*/
+    color: #3a3a3a;
+    font-family: 'Loto', sans-serif;
 }
 
 /* Header */
